@@ -7667,7 +7667,7 @@ button.bg-dark:focus {
 }
 
 .p-2 {
-  padding: 0.5rem !important;
+  padding: 1.0rem !important;
 }
 
 .pt-2,
@@ -10138,7 +10138,7 @@ section.resume-section .resume-section-content {
 
 .float{
 	position:fixed;
-	width:200px;
+	width:150px;
 	height:70px;
 	bottom:50px;
 	right:40px;
@@ -10151,7 +10151,7 @@ section.resume-section .resume-section-content {
 
 @media (max-width: 992px) {
   .float{
-  	width:200px;
+  	width:150px;
   	height:70px;
   	bottom:40px;
   	right:40px;
